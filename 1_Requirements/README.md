@@ -4,7 +4,7 @@
 HIGH LEVEL REQUIREMENTS:
 
 
-ID	      DESCRIPTION         	STATUS
+ID	  --    DESCRIPTION     --    	STATUS
 
 
  HR_01 --	Car in ACC mode --	Implemented
@@ -22,7 +22,7 @@ ID	      DESCRIPTION         	STATUS
 LOW LEVEL REQUIREMENTS:
 
 
-ID	       DESCRIPTION	                 STATUS
+ID	  --     DESCRIPTION	        --         STATUS
 
 
  LR_01 --	ON --	Implemented
