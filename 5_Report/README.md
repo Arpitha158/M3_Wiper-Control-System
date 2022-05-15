@@ -17,7 +17,9 @@ The automated Wiper system is used to detect rainfall and activate the wiper sys
 KEY TERMS:
 
 STM32 Discovery Board
+
 Microcontroller
+
 BASIC REQUIREMENTS:
 
 
